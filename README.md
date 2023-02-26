@@ -11,4 +11,4 @@ Hola, a todos:
 Les dejo un ejercicio aprendido que puede ser de utilidad para cuando se ingresan contraseñas erróneas.
 
           Xorge Zalcedo
-"a little code for little tasks"
+"a small code for small tasks"
